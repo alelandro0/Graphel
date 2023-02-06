@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+}
+.contenedor1{
+    background: #24282B;
+    height: 160px;
+    border-bottom: 7px solid  #1293D4 ;
+    display: flex;
+    
+}
+.contenedor2{
+    background: url("../img/cabecera.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 400px;
+}
+.parte1{
+    color: #fff;
+    padding-top: 45px;
+    width: 500px;
+    padding-top: 80px;
+    margin-left: 80px;
+      
+}
+.parte2{
+    color: #1293D4;
+    
+      
+}
+.blanco{
+    color: #fff;
+    padding: 9;
+    text-decoration: none;
+    
+}
+.azul{
+    color: #1293D4;
+  
+}
+a{
+    padding: 20px;
+    font-size: 20px;
+}
+.mover{
+    float:right;
+   margin-left: 200px;
+    height: 40px;
+    margin-top: 85px;
+}
+.titulo{
+    color: #fff;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 60px;
+}
+.texto{
+    color: #fff;
+    margin-top: 20px;
+    text-align: center;
+}
+.contenedor3{
+    color: #fff;
+    background: #24282B;
+    height: 100px;
+    display: flex;
+}
+form{
+    float: right;
+    margin-left: 300px;
+}
+.palabra{
+    padding-top: 35px;
+    margin-left: 100px;
+    width: 500px;
+    font-size: 30px;
+}
+button{
+    height: 35px;
+    width: 120px;
+    background:  #e8491d;
+    color: #fff;
+    border: 2px solid  #e8491d;
+}
+input{
+    height: 30px;
+    margin-top: 27px;
+    width: 250px;
+}
+.caja1{
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 120px;
+}
+.caja2{
+    height: 300px;
+    width: 300px;
+    text-align: center; 
+    margin-top: 40px;
+    margin-left: 80px;
+}
+.caja3{
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 80px;
+}
+.contenedor4{
+    display: flex;
+}
+footer{
+    margin-top: 100px;
+    height: 80px;
+    background:  #1293d4;
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 70px;
+}
+h4{
+    margin-top: 10px;
+}
+p{
+    margin-top: 10px;
+}
+.blanco:hover{
+    color:  #1293D4;;
+}

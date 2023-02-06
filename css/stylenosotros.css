@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+}
+.contenedor1{
+    background: #24282B;
+    height: 160px;
+    border-bottom: 7px solid  #1293D4 ;
+    display: flex;
+    
+}
+.parte1{
+    color: #fff;
+    padding-top: 45px;
+    width: 500px;
+    padding-top: 80px;
+    margin-left: 80px;
+      
+}
+.parte2{
+    color: #1293D4;     
+}
+.mover{
+    float:right;
+   margin-left: 200px;
+    height: 40px;
+    margin-top: 85px;
+}
+.azul{
+    color: #1293D4;
+    padding: 0;
+    text-decoration: none;
+}
+a{
+    padding: 20px;
+    font-size: 20px;
+}
+.blanco{
+    color: #fff;
+    padding: 9;
+    text-decoration: none;
+    
+}
+
+.contenedor3{
+    color: #fff;
+    background: #24282B;
+    height: 100px;
+    display: flex;
+}
+form{
+    float: right;
+    margin-left: 300px;
+}
+.palabra{
+    padding-top: 35px;
+    margin-left: 90px;
+    width: 500px;
+    font-size: 30px;
+}
+button{
+    height: 35px;
+    width: 120px;
+    background:  #e8491d;
+    color: #fff;
+    border: 2px solid  #e8491d;
+}
+input{
+    height: 30px;
+    margin-top: 27px;
+    width: 250px;
+}
+.uno, .dos{
+    margin-top: 20px;
+    margin-left: 80px;
+    width: 795px;
+}
+.caja2{
+float: right;
+background: #35424a;
+height: 200px;
+width: 313px;
+margin-top:20px ;
+margin-left: 80px;
+color: #fff;
+padding: 15px;
+}
+.caja1{
+    height: 30px;
+}
+.contenedort{
+    display: flex;
+}
+.tres, .cuatro{
+    margin-top: 20px;
+}
+.cinco{
+    color: #fff;
+    padding: 15px;
+}
+.contenedor{
+    height: 70px;   
+    background: #35424a;
+    width: 795px;
+    margin-left: 80px;
+    color: #fff;
+   
+}
+.do{
+    margin-left: 80px;
+    width: 795px ;
+}
+.imagen{
+    background: url("../img/891.jpg");
+    width: 795px;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 300px;
+}
+footer{
+    margin-top: 300px;
+    height: 80px;
+    background:  #1293d4;
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 30px;
+}
+.blanco:hover{
+    color:  #1293D4;;
+}
